@@ -3,7 +3,7 @@
 # Brennan D Baraban <375@holbertonschool.com>
 
 def magic_calculation(a, b, c):
-    """match bytecode provided by Horberton school."""
+    """Match bytecode provided by Horberton School."""
     if a < b:
         return (c)
     if c > b:
